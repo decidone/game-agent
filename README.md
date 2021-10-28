@@ -1,1 +1,1 @@
-# game-agent
+﻿실행방법 : 구동프로그램, 파워포인트 폴더 -> GameAgent.exe
